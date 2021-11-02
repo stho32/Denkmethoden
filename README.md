@@ -14,3 +14,4 @@ Eine Klassifikation von Arten allein und in Gruppen zu denken
   - Analogie (statt aus der Erfagrung des Elefanten zu schöpfen wird ein (kreatives) Werk zu einem anderen Thema genutzt um etwas neu zu betrachten)
   - Permutation (Durch die Benennung von Dimensionen kann durch diese permutiert werden. Dadurch können die Betrachtungslücken systematisch aufgespürt werden)
  
+  - statistischer Test (Es werden Tests durchgeführt, bei denen ein bestimmter Faktor geändert wird. Es wird die Änderung innerhalb der Testergebnisse betrachtet.)

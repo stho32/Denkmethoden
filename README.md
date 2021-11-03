@@ -17,3 +17,4 @@ Eine Klassifikation von Arten allein und in Gruppen zu denken
   - statistischer Test (Es werden mehrere Tests durchgeführt, bei denen jeweils ein bestimmter Faktor geändert wird, der Rest der Einflußfaktoren wird konstant gehalten. Es wird die Änderung innerhalb der Testergebnisse betrachtet.)
 
   - Feedback/validierendes Modell (das Entscheidungsmodell liefert Feedback über die gelieferte Ergebnisqualität und kann daher fließend beobachtet und ggf. angepasst werden)
+  - Ableitung, Herleitung, Extrapolation (Rückschlüsse aufgrund 1-n bestimmter Fälle als Grundlage für die Konstruktion eines Modells nehmen, das schrittweise mit jedem auftretenden Fall validiert und erweitert wird)

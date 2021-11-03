@@ -14,6 +14,6 @@ Eine Klassifikation von Arten allein und in Gruppen zu denken
   - Analogie (statt aus der Erfahrung des Elefanten zu schöpfen wird ein (kreatives) Werk zu einem anderen Thema genutzt um etwas neu zu betrachten)
   - Permutation (Durch die Benennung von Dimensionen kann durch diese permutiert werden. Dadurch können die Betrachtungslücken systematisch aufgespürt werden)
  
-  - statistischer Test (Es werden Tests durchgeführt, bei denen ein bestimmter Faktor geändert wird. Es wird die Änderung innerhalb der Testergebnisse betrachtet.)
+  - statistischer Test (Es werden mehrere Tests durchgeführt, bei denen jeweils ein bestimmter Faktor geändert wird, der Rest der Einflußfaktoren wird konstant gehalten. Es wird die Änderung innerhalb der Testergebnisse betrachtet.)
 
   - Feedback/validierendes Modell (das Entscheidungsmodell liefert Feedback über die gelieferte Ergebnisqualität und kann daher fließend beobachtet und ggf. angepasst werden)
